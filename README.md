@@ -4,9 +4,9 @@
 -  Python, Javascript (JS based libararies), and good old fashioned MS Excel, Access, VBA and SQL.
   
 🌱I’m forging a path that leverages technology and data deliver Workforce and Human Capital solutions across Learning | Culture | Change. 
-Mission: To advance economic mobility and prepare organizations for the everchanging dynamics of the Future of Work.
+  Mission: To advance economic mobility and prepare organizations for the everchanging dynamics of the Future of Work.
     
-In summary, I'm a Renaissance Woman! Ok, I'm no da Vinci, but hey that's what life long learning is for 💞️.
+  In summary, I'm a Renaissance Woman! Ok, I'm no da Vinci, but hey that's what life long learning is for 💞️.
 - 📫 How to reach me ...coming soon ...
 
 <!---
