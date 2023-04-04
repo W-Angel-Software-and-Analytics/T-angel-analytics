@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @T-angel-analytics
--  I’m interested in advancing equity through improved economic outcoms; specifically through upwardly mobile paths to sustainable employment.
--  I’m currently learning Datascience with Python.
-- 🌱I’m looking to craft a career that intersects all of my interests:
-     - Social Impact: Economic Mobility, D.E.I.💞️ 
-     - The Labor Economy:The Future of Work, Workforce Development, Human Capital Development, Organization Culture.
-     - Business Strategy & Implementation: Did I Mention: People Strategy IS Business Strategy.
-     - Technical Skills: Programming and Datascience 
-     -  Python: Machine Learning; Web Development: Javascript+ JS based libraries (MEAN stack); Good old fashioned MS Excel, MS Access and SQL; 
+- 👋 Hi, I’m @T-angel-analytics a:
+-  Data | Technology | People Strategist specializing in the Future of Work.
+-  Career businesswoman, Social Impact MBA graduate, and Entrepreneur.
+-  Experienced in Machine Learning, Web Development, and Data Analyti
+-  Python, Javascript (JS based libararies), and good old fashioned MS Excel, Access, Vba and SQL for data analytics
+  
+- 🌱I’m forging a path that applies technology and data to Workforce and Human Capital Development in the areas of  Learning | Culture | Change, to advance economic mobility and help organizations navigate the everchanging dynamics of the Future of Work.
     
-     Yes it seems I have lots of interests turns out I'm a Renaissance Woman! 
-     Ok, I'm no da Vinci, but hey that's what life long learning is for 💞️ 
+  I'm a Renaissance Woman! Ok, I'm no da Vinci, but hey that's what life long learning is for 💞️ 
 - 📫 How to reach me ...coming soon
 
 <!---
